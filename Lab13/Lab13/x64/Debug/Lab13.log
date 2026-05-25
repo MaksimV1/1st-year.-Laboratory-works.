@@ -1,0 +1,11 @@
+﻿  Lab13_main.cpp
+C:\Users\Asus\Desktop\Лабораторные\Classes\Lab13\Lab13_main.cpp(253,25): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\Asus\Desktop\Лабораторные\Classes\Lab13\Lab13_main.cpp(257,19): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\Asus\Desktop\Лабораторные\Classes\Lab13\Lab13_main.cpp(273,32): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Asus\Desktop\Лабораторные\Classes\Lab13\Lab13_main.cpp(587,25): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\Asus\Desktop\Лабораторные\Classes\Lab13\Lab13_main.cpp(591,19): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\Asus\Desktop\Лабораторные\Classes\Lab13\Lab13_main.cpp(620,32): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Asus\Desktop\Лабораторные\Classes\Lab13\Lab13_main.cpp(940,23): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Asus\Desktop\Лабораторные\Classes\Lab13\Lab13_main.cpp(944,19): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\Asus\Desktop\Лабораторные\Classes\Lab13\Lab13_main.cpp(962,32): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  Lab13.vcxproj -> C:\Users\Asus\Desktop\Лабораторные\Classes\Lab13\x64\Debug\Lab13.exe
