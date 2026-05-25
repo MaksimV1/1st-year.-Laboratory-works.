@@ -1,0 +1,24 @@
+﻿  Lab7_main.cpp
+C:\Users\Asus\Desktop\Лабораторные\Classes\Lab7\Vector.h(25,27): warning C4244: инициализация: преобразование "double" в "size_t", возможна потеря данных
+  (компиляция исходного файла "Lab7_main.cpp")
+      C:\Users\Asus\Desktop\Лабораторные\Classes\Lab7\Vector.h(25,27):
+      контекст создания экземпляра шаблона (сначала самый старый)
+          C:\Users\Asus\Desktop\Лабораторные\Classes\Lab7\List.h(9,18):
+          выполняется компиляция ссылки на экземпляр класс шаблон функции "Vector<Pair>"
+          C:\Users\Asus\Desktop\Лабораторные\Classes\Lab7\Vector.h(24,2):
+          во время компиляции функции-члена класс шаблон "Vector<Pair>::Vector(void)"
+              C:\Users\Asus\Desktop\Лабораторные\Classes\Lab7\List.h(12,12):
+              см. первую ссылку на "Vector<Pair>::Vector" в "List::List"
+  
+C:\Users\Asus\Desktop\Лабораторные\Classes\Lab7\Vector.h(16,37): warning C4244: инициализация: преобразование "double" в "size_t", возможна потеря данных
+  (компиляция исходного файла "Lab7_main.cpp")
+      C:\Users\Asus\Desktop\Лабораторные\Classes\Lab7\Vector.h(16,37):
+      контекст создания экземпляра шаблона (сначала самый старый)
+          C:\Users\Asus\Desktop\Лабораторные\Classes\Lab7\Vector.h(14,7):
+          во время компиляции функции-члена класс шаблон "void Vector<Pair>::Resize(void)"
+              C:\Users\Asus\Desktop\Лабораторные\Classes\Lab7\Vector.h(34,10):
+              см. первую ссылку на "Vector<Pair>::Resize" в "Vector<Pair>::PushBack"
+              C:\Users\Asus\Desktop\Лабораторные\Classes\Lab7\List.h(45,22):
+              см. первую ссылку на "Vector<Pair>::PushBack" в "List::Add"
+  
+  Lab7.vcxproj -> C:\Users\Asus\Desktop\Лабораторные\Classes\Lab7\x64\Debug\Lab7.exe
