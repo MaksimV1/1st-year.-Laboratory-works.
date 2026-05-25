@@ -1,0 +1,10 @@
+﻿  person.cpp
+C:\Users\Asus\Desktop\Лабораторные\Classes\Lab4\person.cpp(51,23): error C2662: std::string Person::Get_name(void): невозможно преобразовать указатель "this" из "const Person" в "Person &"
+      C:\Users\Asus\Desktop\Лабораторные\Classes\Lab4\person.cpp(51,21):
+      В результате преобразования теряются квалификаторы
+      C:\Users\Asus\Desktop\Лабораторные\Classes\Lab4\Person.h(14,9):
+       см. объявление "Person::Get_name"
+      C:\Users\Asus\Desktop\Лабораторные\Classes\Lab4\person.cpp(51,23):
+      при попытке сопоставить список аргументов "()"
+  
+C:\Users\Asus\Desktop\Лабораторные\Classes\Lab4\person.cpp(51,18): error C2088: встроенный оператор "<<" не может быть применен к операнду типа "std::basic_ostream<char,std::char_traits<char>>"
